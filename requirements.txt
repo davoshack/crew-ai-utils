@@ -1,0 +1,11 @@
+
+python-dotenv==1.0.0
+
+
+ipython
+
+# CrewAI
+crewai==0.75
+crewai_tools==0.12.1
+
+layers/
