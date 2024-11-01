@@ -6,6 +6,6 @@ ipython
 
 # CrewAI
 crewai==0.75
-crewai_tools==0.12.1
+crewai_tools==0.13.2
 
 layers/

@@ -1,13 +1,13 @@
 from setuptools import setup
 
 setup(
-    name="custom_utils",
+    name="crewai_utils",
     version="0.0.1",
-    description="DeepLearning utils",
+    description="CrewAI Utils",
     url="",
     author="Davoscode",
     author_email="dev@davoscode.com",
     license="MIT",
-    packages=["custom_utils",],
+    packages=["crewai_utils",],
     zip_safe=False,
 )
